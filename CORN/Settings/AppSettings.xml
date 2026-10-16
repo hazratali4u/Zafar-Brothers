@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AppSettings>
+
+  <Server>65.1.232.73</Server>
+  <DBName>ZafarBrothers</DBName>
+  <DBUser>app</DBUser>
+  <DBPassword>Fast12341234</DBPassword>
+  <DBAuthentication>MSDE</DBAuthentication>
+  
+</AppSettings>
